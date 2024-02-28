@@ -81,3 +81,13 @@ h2 {
     width: 50%
 }
 
+#intestazione {
+    border-top: 1px solid #ffcf7c;
+    font-size: 0.4em;
+    color: rgb(147, 147, 255);
+}
+
+#intestazione div {
+    background-color: #967128;
+    padding: 2em;
+  }
