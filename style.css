@@ -18,17 +18,15 @@ h1 {
 
     text-align: center;
 }
-hr
-{
-color: orange;
-background: orange;
-}
+
 
 .img2 {
 
     text-align: center;
-    border-radius: 100px;
+    border-radius: 15px;
     text-shadow: 4px 4px 8px;
+
+    
 }
 #sv {
 
@@ -40,10 +38,33 @@ background: orange;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    color: red;
+    color: brown;
 }
 .hr{
 
     color: blue;
 
+}
+#img2wrapper{
+
+    width: 100%;
+    text-align: center;
+}
+h2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#lista {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#link{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+hr {
+    
 }
