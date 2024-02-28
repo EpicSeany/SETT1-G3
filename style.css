@@ -1,0 +1,49 @@
+
+
+.logo {
+    text-align: center;
+}
+
+.margine {
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+#tit {
+
+    text-align: center;
+}
+hr
+{
+color: orange;
+background: orange;
+}
+
+.img2 {
+
+    text-align: center;
+    border-radius: 100px;
+    text-shadow: 4px 4px 8px;
+}
+#sv {
+
+    text-align: center;
+    color: grey;
+}
+.tit2 {
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color: red;
+}
+.hr{
+
+    color: blue;
+
+}
