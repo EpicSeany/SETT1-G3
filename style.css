@@ -1,93 +1,65 @@
+body {
+text-align: center;
+margin: 0;
+font-family: Georgia, 'Times New Roman', Times, serif;
 
-
-.logo {
-    text-align: center;
 }
 
-.margine {
+#logo {
 
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    width: 200px;
+    margin: 1rem 0;
 }
 
+nav {
+
+    background-color: #fefbf1;
+    padding: 1rem 0 ;
+    border-top: 1px  solid#ffd977; 
+    color: #004d4d;
+    font-size: 0.8rem;
+    margin-bottom: 4rem;
+}
 h1 {
+
     text-align: center;
+    margin-bottom: 2rem;
 }
-#tit {
+.content {
 
-    text-align: center;
+    text-align: left;
+    width: 50%;
+    margin: auto;
+}
+#focaccia {
+
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px 0px;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+  -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
 }
 
-
-.img2 {
-
+#sv {
+    display: block;
     text-align: center;
-    border-radius: 15px;
-    text-shadow: 4px 4px 8px;
+    color: darkgray;
+    margin-top: 1rem;
+}
+
+#featured{
+
+    margin-top: 2rem;
+    padding-left: 1rem;
+    border-left: 1px solid orange;
+    
+}
+#featured span {
+
+    color: #b5460f;
+    display: block;
+}
+#featured a {
 
     
 }
-#sv {
-
-    text-align: center;
-    color: grey;
-}
-.tit2 {
-
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    color: brown;
-}
-.hr{
-
-    color: blue;
-
-}
-#img2wrapper{
-
-    width: 100%;
-    text-align: center;
-}
-h2 {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-#lista {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-#link{
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-#lista2 {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%
-}
-#lista3 {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%
-}
-#ult {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%
-}
-
-#intestazione {
-    border-top: 1px solid #ffcf7c;
-    font-size: 0.4em;
-    color: rgb(147, 147, 255);
-}
-
-#intestazione div {
-    background-color: #967128;
-    padding: 2em;
-  }
