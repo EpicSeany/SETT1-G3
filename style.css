@@ -61,5 +61,39 @@ h1 {
 }
 #featured a {
 
-    
+    color: #177;
+}
+.ingredients  {
+
+margin-top: 4em;
+}
+.ingredients p, ol li p:first-of-type{
+
+    font-weight: bold;
+
+}
+
+h2{
+    font-weight: 100;
+}
+
+.section {
+
+    border-bottom: 1px solid lightblue;
+    margin-bottom: 2rem;
+}
+
+ul {
+
+    margin-bottom: 2rem;
+}
+
+li{
+
+    margin-bottom: 1rem;
+}
+
+nav span span {
+
+    font-weight: 900;
 }
